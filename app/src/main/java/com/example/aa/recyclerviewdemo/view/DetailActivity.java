@@ -1,4 +1,4 @@
-package com.example.aa.recyclerviewdemo;
+package com.example.aa.recyclerviewdemo.view;
 
 import android.support.v7.app.AppCompatActivity;
 
